@@ -1,5 +1,4 @@
 const { Router } = require("express");
-const Curso = require("../models/Curso");
 const {
   criar,
   listarTodos,
